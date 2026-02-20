@@ -64,7 +64,7 @@ Similarity was computed based on vehicle technical characteristics.
 
 ---
 
-## Technologies Used
+## Technologies Used in Google Colab environment
 
 - PySpark
 - Spark ML Pipeline
