@@ -85,5 +85,10 @@ Similarity was computed based on vehicle technical characteristics.
 ---
 
 ## Project Structure
+notebooks/
+task1_pyspark_recommender.ipynb
+task2_mapreduce_powerlifting.ipynb
 
+report/
+big_data_project_report.pdf
 
