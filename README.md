@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed during an Erasmus semester as part of a Big Data module.  
+This project was developed during my Erasmus in University of Latvia, fall semester as part of a Big Data module.  
 It demonstrates scalable data processing using two distributed paradigms:
 
 - **PySpark** for building a content-based recommendation system
@@ -86,9 +86,9 @@ Similarity was computed based on vehicle technical characteristics.
 
 ## Project Structure
 notebooks/
-task1_pyspark_recommender.ipynb
-task2_mapreduce_powerlifting.ipynb
+!- task1_pyspark_recommender.ipynb
+|- task2_mapreduce_powerlifting.ipynb
 
 report/
-big_data_project_report.pdf
+|- big_data_project_report.pdf
 
